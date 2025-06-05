@@ -167,4 +167,4 @@ try:
 except Exception as e:
     print(f"Error saving vector store: {str(e)}")
 
-print("\nChat session ended. History saved.")
+print("\nChat session ended. History saved. hii")

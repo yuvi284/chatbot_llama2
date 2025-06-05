@@ -1,0 +1,68 @@
+1.
+English: I will call you tomorrow.
+ISL: Tomorrow I you call
+
+2.
+English: The cat is under the table.
+ISL: Cat table under
+
+3.
+English: He does not like coffee.
+ISL: He coffee like not
+
+4.
+English: My mother is cooking food.
+ISL: My mother food cook
+
+5.
+English: What is your favorite color?
+ISL: Your favorite color what
+
+6.
+English: I went to Delhi yesterday.
+ISL: Yesterday Delhi I go
+
+7.
+English: The small boy is playing.
+ISL: Small boy play
+
+8.
+English: Where is the book?
+ISL: Book where
+
+9.
+English: She will meet me at the station.
+ISL: She station me meet
+
+10.
+English: We are not watching TV.
+ISL: We TV watch not
+
+11.
+English: My father he is strong and kind.
+ISL: My father he strong kind
+
+12.
+English: The phone is on the bed.
+ISL: Phone bed on
+
+13.
+English: They are eating apples.
+ISL: They apples eat
+
+14.
+English: I will not go to the market tomorrow.
+ISL: Tomorrow I market go not
+
+15.
+English: Why are you crying?
+ISL: You cry why
+
+
+
+
+Task:\nConvert the following English sentence into an Indian Sign Language (ISL) sentence by strictly following the grammar rules of ISL.\nImportant Instructions:\nFollow ISL grammar rules outlined below.\nDo not include any facial expressions, body movements, or classifier details.\nOutput only the ISL sentence as plain text — no explanation, no translation, no extra words.\nWord Order: Subject–Object–Verb (SOV)\nISL follows SOV, not English SVO.\n📝 English: 'I eat food'\n🧠 ISL: 'I food eat'\nRemove Articles ('a', 'an', 'the')\nThese are not used in ISL.\n📝 English: 'The boy is reading a book'\n🧠 ISL: 'Boy book read'\nOmit Helping / Auxiliary Verbs\nWords like 'is', 'am', 'are', 'was', 'were', 'will', 'has', 'had', etc., are removed.\n📝 English: 'She is going to school'\n🧠 ISL: 'She school go'\nNo Tense Inflections – Use Time Indicators\nISL does not express tense using verb forms (no 'went', 'going', 'eaten').\nUse time words like 'yesterday', 'tomorrow' at the start of the sentence.\n📝 English: 'I will go to market tomorrow'\n🧠 ISL: 'Tomorrow I market go'\nAdjectives Come Before Nouns\nAlways place descriptive words (adjectives) before the noun.\n📝 English: 'Beautiful girl is dancing'\n🧠 ISL: 'Beautiful girl dance'\nWH-Questions at the End (Topic-Comment Order\nQuestions like What, Where, Who, Why, When, How are placed at the end.\n📝 English: 'Where are you going?'\n🧠 ISL: 'You go where'\nNegation Comes After Verb\nWords like 'not', 'don’t', 'doesn’t', 'won’t' appear after the main verb.\n📝 English: 'I do not like tea'\n🧠 ISL: 'I tea like not'\nRepeat Topic or Pronoun for Clarity (Optional)\nRedundancy is allowed for clarity, especially in complex sentences.\n📝 English: 'My brother he is smart'\n🧠 ISL: 'My brother he smart'\nUse Word Order Instead of Prepositions\nWords like 'on', 'in', 'under', 'behind' are implied by word position.\n📝 English: 'Book is on the table'\n🧠 ISL: 'Book table on'
+
+Only output the converted ISL sentence. Nothing else. \nNow convert the following sentence into ISL format:\nSentence: I will call you tomorrow.
+
+Analyze the sentence and output exactly in this format: [time, subject, object, verb] . Replace missing elements with "none". Example: Input: "She eats apples" Output: [none, She, apple, eats] 
